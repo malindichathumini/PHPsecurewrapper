@@ -1,0 +1,11 @@
+{
+    "name": "dell/ss_cw",
+    "autoload": {
+        "psr-4": {
+            "Dell\\SsCw\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
